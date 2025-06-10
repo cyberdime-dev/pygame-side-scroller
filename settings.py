@@ -1,0 +1,8 @@
+# settings.py
+WIDTH = 800
+HEIGHT = 600
+FPS = 60
+
+PLAYER_SPEED = 5
+JUMP_POWER = 15
+GRAVITY = 0.8
