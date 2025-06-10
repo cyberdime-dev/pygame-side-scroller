@@ -32,4 +32,9 @@ A basic 2D side scroller built with Python and Pygame.
 1. Clone this repo:
    ```bash
    git clone https://github.com/yourusername/side-scroller-pygame.git
-   cd side-scroller-pygame
+   ```
+
+2. Open directory and execute game:
+   ```bash
+   cd side-scroller-pygame && python main.py
+    ```
